@@ -1,1 +1,1 @@
-
+INSERT INTO `studenten` (`voornaam`, `achternaam`, `geboortedatum`, `woonplaats`) VALUES ( 'Jan', 'Pieters', '2031-04-28', 'Ouderkerk'), ( 'Johan', 'Eduardo','2001-09-04', 'Hoorn'), ( 'Angela', 'Mohammed', '2002-05-17', 'Amstelveen')
