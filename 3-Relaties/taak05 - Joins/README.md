@@ -69,7 +69,7 @@ Voer de onderstaande opdrachten uit door een SQL query te schrijven met een JOIN
 
 ## Opdracht
 
-1. Maak een overzicht van alle spellen met het platform  waarop ze zijn uitgekomen.
+1. Maak een overzicht van alle spellen met het platform waarop ze zijn uitgekomen.
 2. Maak een overzicht van de eerste 10 spellen in de game tabel (gebruik het id veld in de game tabel)
 3. Maak een overzicht dat alleen de **naam** en het **platform** laat zien van de game "Call of Duty: Advanced Warfare".
 4. Maak een overzicht dat het platform en de naam (in die volgorde) toont van alle games die beginnen met "FIFA". (gebruik de LIKE operator, zie [bronnen](#bronnen))
